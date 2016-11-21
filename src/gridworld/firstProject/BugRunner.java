@@ -15,9 +15,9 @@ package gridworld.firstProject;
  * @author Cay Horstmann
  */
 
-import info.gridworld.actor.ActorWorld;
-import info.gridworld.actor.Bug;
-import info.gridworld.actor.Rock;
+import gridworld.framework.actor.ActorWorld;
+import gridworld.framework.actor.Bug;
+import gridworld.framework.actor.Rock;
 
 /**
  * This class runs a world that contains a bug and a rock, added at random

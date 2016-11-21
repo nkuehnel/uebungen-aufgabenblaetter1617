@@ -1,9 +1,9 @@
 package aufgabenblatt4;
 
-import info.gridworld.actor.Actor;
-import info.gridworld.actor.ActorWorld;
-import info.gridworld.grid.BoundedGrid;
-import info.gridworld.grid.Location;
+import gridworld.framework.actor.Actor;
+import gridworld.framework.actor.ActorWorld;
+import gridworld.framework.grid.BoundedGrid;
+import gridworld.framework.grid.Location;
 
 public class RunCarGridWorld {
 

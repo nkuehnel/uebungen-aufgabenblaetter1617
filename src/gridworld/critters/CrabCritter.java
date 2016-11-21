@@ -17,13 +17,13 @@ package gridworld.critters;
  * @author Cay Horstmann
  */
 
-import info.gridworld.actor.Actor;
-import info.gridworld.actor.Critter;
-import info.gridworld.grid.Grid;
-import info.gridworld.grid.Location;
-
 import java.awt.Color;
 import java.util.ArrayList;
+
+import gridworld.framework.actor.Actor;
+import gridworld.framework.actor.Critter;
+import gridworld.framework.grid.Grid;
+import gridworld.framework.grid.Location;
 
 /**
  * A <code>CrabCritter</code> looks at a limited set of neighbors when it eats and moves.

@@ -17,11 +17,11 @@ package gridworld.critters;
  * @author Cay Horstmann
  */
 
-import info.gridworld.actor.Actor;
-import info.gridworld.actor.Critter;
-import info.gridworld.grid.Location;
-
 import java.util.ArrayList;
+
+import gridworld.framework.actor.Actor;
+import gridworld.framework.actor.Critter;
+import gridworld.framework.grid.Location;
 
 /**
  * A <code>ChameleonCritter</code> takes on the color of neighboring actors as

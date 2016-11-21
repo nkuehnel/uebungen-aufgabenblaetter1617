@@ -1,6 +1,6 @@
 package aufgabenblatt4;
 
-import info.gridworld.actor.Actor;
+import gridworld.framework.actor.Actor;
 
 public class Car extends Actor {
 

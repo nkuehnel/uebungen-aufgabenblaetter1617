@@ -17,7 +17,7 @@ package gridworld.boxBug;
  * @author Barbara Cloud Wells
  */
 
-import info.gridworld.actor.Bug;
+import gridworld.framework.actor.Bug;
 
 /**
  * A <code>BoxBug</code> traces out a square "box" of a given size. <br />

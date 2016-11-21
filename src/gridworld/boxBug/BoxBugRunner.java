@@ -17,10 +17,10 @@ package gridworld.boxBug;
  * @author Barbara Cloud Wells
  */
 
-import info.gridworld.actor.ActorWorld;
-import info.gridworld.grid.Location;
-
 import java.awt.Color;
+
+import gridworld.framework.actor.ActorWorld;
+import gridworld.framework.grid.Location;
 
 /**
  * This class runs a world that contains box bugs. <br />

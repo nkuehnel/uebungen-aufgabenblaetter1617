@@ -17,11 +17,11 @@ package gridworld.critters;
  * @author Cay Horstmann
  */
 
-import info.gridworld.actor.ActorWorld;
-import info.gridworld.actor.Bug;
-import info.gridworld.actor.Flower;
-import info.gridworld.actor.Rock;
-import info.gridworld.grid.Location;
+import gridworld.framework.actor.ActorWorld;
+import gridworld.framework.actor.Bug;
+import gridworld.framework.actor.Flower;
+import gridworld.framework.actor.Rock;
+import gridworld.framework.grid.Location;
 
 /**
  * This class runs a world that contains crab critters. <br />
