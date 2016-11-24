@@ -6,20 +6,20 @@ class ImmutableRational {
 	private int nenner;
 
 	public ImmutableRational() {
-			zaehler = 0;
-			nenner = 1;
-		}
+		zaehler = 0;
+		nenner = 1;
+	}
 
 	public ImmutableRational(int zaehler, int nenner) {
-			this.zaehler = zaehler;
-			this.nenner = nenner;
-		}
+		this.zaehler = zaehler;
+		this.nenner = nenner;
+	}
 
 	public static void main(String[] args) {
 		ImmutableRational r = new ImmutableRational(6,4);
 		r.printRational();
 		r.reduce().printRational();
-		r.add(new ImmutableRational(3, 8)).printRational();;
+		r.add(new ImmutableRational(3, 8)).printRational();
 		r.invert().printRational();
 		r.negate().printRational();
 	}
@@ -63,5 +63,4 @@ class ImmutableRational {
 		int nenner = this.nenner * r.nenner;
 		return new ImmutableRational(zaehler, nenner);
 	}
-
 }
