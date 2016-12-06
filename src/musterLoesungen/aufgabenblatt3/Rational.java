@@ -1,4 +1,4 @@
-package musterLösungen.aufgabenblatt3;
+package musterLoesungen.aufgabenblatt3;
 
 class Rational {
 

@@ -1,4 +1,4 @@
-package musterLösungen.aufgabenblatt2;
+package musterLoesungen.aufgabenblatt2;
 
 import org.junit.Assert;
 import org.junit.Test;

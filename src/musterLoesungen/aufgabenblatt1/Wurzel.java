@@ -1,4 +1,4 @@
-package musterLösungen.aufgabenblatt1;
+package musterLoesungen.aufgabenblatt1;
 
 public class Wurzel {
 	

@@ -1,4 +1,4 @@
-package musterLösungen.uebung7;
+package musterLoesungen.uebung7;
 
 import java.util.List;
 import java.util.ArrayList;

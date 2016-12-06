@@ -1,4 +1,4 @@
-package musterLösungen.uebung6;
+package musterLoesungen.uebung6;
 
 import gridworld.framework.actor.ActorWorld;
 

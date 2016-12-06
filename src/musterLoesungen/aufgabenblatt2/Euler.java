@@ -1,4 +1,4 @@
-package musterLösungen.aufgabenblatt2;
+package musterLoesungen.aufgabenblatt2;
 
 public class Euler {
 
@@ -11,14 +11,14 @@ public class Euler {
 	}
 
 	public static double myExpFast(int x, int n) {
-		long zähler = 1;
+		long zaehler = 1;
 		long nenner = 1;
 		double result = 1;
 
 		for (int i = 1; i <= n; i++) {
-			zähler *= x;
+			zaehler *= x;
 			nenner *= i;
-			result += (double) zähler / (double) nenner;
+			result += (double) zaehler / (double) nenner;
 		}
 
 		return result;

@@ -1,4 +1,4 @@
-package musterLösungen.uebung7;
+package musterLoesungen.uebung7;
 
 public class Helicopter implements CanMoveHorizontally, CanMoveVertically {
 
